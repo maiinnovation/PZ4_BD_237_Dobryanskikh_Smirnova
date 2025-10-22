@@ -1,0 +1,9 @@
+id,name,email,age,salary,department,city
+1,Петр Петров,ivan@mail.ru,28,50000.50,IT,Москва
+2,Мария Петрова,maria@mail.ru,32,65000.00,HR,СПб
+3,Алексей Сидоров,alex@mail.ru,25,45000.75,IT,Москва
+4,Ольга Козлова,olga@mail.ru,29,55000.00,Marketing,Казань
+5,Дмитрий Новиков,dmitry@mail.ru,35,75000.25,Finance,Москва
+6,Екатерина Васнецова,ekaterina@mail.ru,27,48000.00,HR,СПб
+7,Сергей Орлов,sergey@mail.ru,31,62000.50,IT,Новосибирск
+8,Анна Жукова,anna@mail.ru,26,47000.00,Marketing,Москва
